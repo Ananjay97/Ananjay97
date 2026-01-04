@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [ananjay.xyz](ananjay.xyz)
 
-- ⚡ Fun fact **All my colleagues say that I have IT Aura, because by the time I reach them or connect with them on the issue it get resolved. Hire me, if you need some of that !**
+- ⚡ Fun fact **All my colleagues say that I have IT Aura, because by the time I reach them or connect with them on the issue it gets resolved. Hire me, if you need some of that !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
