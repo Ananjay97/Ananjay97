@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ananjay Girish</h1>
-<h3 align="center">A passionate IT and Cybersecurity professional from India</h3>
+<h3 align="center">A passionate IT and Cybersecurity professional from India.</h3>
 
-- 🌱 I’m currently learning **AWS and Azure**
+<p align="left"> <a href="https://twitter.com/ananjaygirish" target="blank"><img src="https://img.shields.io/twitter/follow/ananjaygirish?logo=twitter&style=for-the-badge" alt="ananjaygirish" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ananjay.xyz](ananjay.xyz)
 
@@ -9,8 +9,13 @@
 
 - 📫 How to reach me **ananjaygirish1997@gmail.com**
 
+- 📄 Know about my experiences [ananjay.xyz](ananjay.xyz)
+
+- ⚡ Fun fact **All my colleagues say that I have IT Aura, because by the time I reach them or connect with them on the issue it get resolved. Hire me, if you need some of that !**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ananjaygirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ananjaygirish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ananjay-girish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananjay-girish" height="30" width="40" /></a>
 <a href="https://instagram.com/anan_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anan_jay" height="30" width="40" /></a>
 </p>
